@@ -3,5 +3,5 @@ Experiment to validate an initial report artifact generated automatically to imp
 
 Checkout the experiment description in the following [document](https://docs.google.com/document/d/1d0ZcgILOTWxjbhSmLfluBwOpsu8zhrFgM-eeRjtl13s/edit#).
 
-1. [main_notebook.ipybn](./main_notebook.ipybn): Notebook with the report generation, using [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling).
+1. [main_notebook.ipynb](./main_notebook.ipynb): Notebook with the report generation, using [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling).
 2. [report.html](./report.html): Generated report about [Credit Card customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers) dataset.
